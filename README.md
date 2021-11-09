@@ -7,6 +7,6 @@ External systems will be used to:</br>
 • the generation of fines for overdue loans.</br>
 The system will also carry out statistical analyzes, represented by graphs and rankings, of the subjects and objects that are part of the system for information research purposes.</br></br>
 
-The details of the project can be found in 1-progetto.pdf
+The details of the project can be found in "1-progetto.pdf"
 
 
